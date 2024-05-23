@@ -2,7 +2,7 @@
 
 ## Description
 
-The Command-Line Habit Tracker is a tool that allows users to track their daily habits and goals directly from the command line. Users can add, remove, and view their habits, set targets, log progress, and receive reminders to help them stay on track.
+The Command-Line Habit Tracker is a tool that allows users to track their daily habits and goals directly from the command line. Users can add, remove, and view their habits, set targets, log progress.
 
 ## Features
 
