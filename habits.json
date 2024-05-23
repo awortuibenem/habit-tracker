@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Coding",
+        "target": "daily",
+        "progress": [
+            {
+                "date": "2024-05-23",
+                "completed": true
+            }
+        ]
+    },
+    {
+        "name": "Dancing",
+        "target": "weekly",
+        "progress": []
+    }
+]
